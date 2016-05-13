@@ -1,0 +1,6 @@
+name: Pathfinding
+author: akselm
+version: 1.0
+main: code.akselm.pathfinding.PathfindingPlugin
+commands:
+  pf:
